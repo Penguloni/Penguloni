@@ -62,8 +62,8 @@ At uni I'm building Repwing with my team. It's an AI assistant for people who se
 Builds, tool tests and the stuff that went wrong go on Instagram and TikTok as Lean Builds AI. The longer thoughts end up on LinkedIn.
 
 <p align="center">
-  <a href="https://www.instagram.com/leanbuildsai/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-instagram-dark.svg"><img alt="Instagram: Lean Builds AI" src="assets/btn-instagram-light.svg" width="264"></picture></a>
-  <a href="https://www.tiktok.com/@leanbuildsai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-tiktok-dark.svg"><img alt="TikTok: Lean Builds AI" src="assets/btn-tiktok-light.svg" width="264"></picture></a>
+  <a href="https://www.instagram.com/lean.ai.space/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-instagram-dark.svg"><img alt="Instagram: @lean.ai.space" src="assets/btn-instagram-light.svg" width="264"></picture></a>
+  <a href="https://www.tiktok.com/@leanbuildsai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-tiktok-dark.svg"><img alt="TikTok: @leanbuildsai" src="assets/btn-tiktok-light.svg" width="264"></picture></a>
   <a href="https://www.linkedin.com/in/lean-zuschlag-09a5ab281/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img alt="LinkedIn: Lean Zuschlag" src="assets/btn-linkedin-light.svg" width="264"></picture></a>
 </p>
 
